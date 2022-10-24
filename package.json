@@ -1,0 +1,18 @@
+{
+  "name": "clumsify",
+  "version": "0.0.1",
+  "description": "Make your network requests clumsy",
+  "main": "index.js",
+  "author": "Tiago Nobrega",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^9.0.2",
+    "@typescript-eslint/eslint-plugin": "^5.40.1",
+    "@typescript-eslint/parser": "^5.40.1",
+    "eslint": "^8.26.0",
+    "rollup": "^3.2.3",
+    "rollup-plugin-dts": "^5.0.0",
+    "typescript": "^4.8.4"
+  }
+}
